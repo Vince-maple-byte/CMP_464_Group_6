@@ -1,4 +1,5 @@
 # CMP_464_Group_6
+Check inside branch "Master" for all files.
 There may be image previews below. Also you can make changes to the style_option1.css and style_option2.css based on how you want it to look and we'll add them to the main after that.
 IMPORTANT 
 there are 4 files in this folder;
