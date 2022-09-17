@@ -2,7 +2,7 @@
 If you see Konan Bryan anywhere, its just my computer user name so don't worry. Check inside branch "Master" for all files.
 There may be image previews below. Also you can make changes to the style_option1.css and style_option2.css based on how you want it to look and we'll add them to the main after that.
 IMPORTANT 
-there are 4 files in this folder;
+there are 4 files in the review_files folder located in the master branch;
 Readme.md, review_index.html and
 1 folder called "css" which contains
 style_option1.css and style_option2.css
