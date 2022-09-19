@@ -22,6 +22,10 @@ body {
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
 }
+.center{
+  text-align: center;
+}
+
 /*These buttons links our names on the review_index.html to our own 
 indes.html, for example if you click on your name, it should take you 
 to your index.html if you have it in tha same folder*/
@@ -32,7 +36,7 @@ to your index.html if you have it in tha same folder*/
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 24px;
   font-family: monospace;
   margin: 4px 2px;
   transition-duration: 0.4s;
@@ -59,16 +63,17 @@ like i said, fell free to add more if needed*/
 /*This is for the header "h1" with specific details, 
 you can add your own, like h3 or h4 or whatever*/
 h1 {
-  color: black;
+  color: white;
   text-align: center;
   font-family:monospace;
-  font-size: 35px;
+  font-size: 44px;
 }
 /*This is the paragraph tag with specifications, you can add
 your own if you want*/
 p {
   font-family: monospace;
   font-size: 20px;
+  color: white;
 }
 /*This are special instructions for the colour gradient[the colourful background]
 you can mess with them to see how they work. 
