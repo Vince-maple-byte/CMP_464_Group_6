@@ -90,3 +90,10 @@ style.css to use on Monday*/
         background-position: 0% 50%;
     }
 }
+
+/*This is for the table design in the personal pages*/
+table, th, tr, td{
+  border: 1px solid white;
+  color: white;
+  width: 100%;
+}
