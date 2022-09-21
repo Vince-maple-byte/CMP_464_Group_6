@@ -113,3 +113,24 @@ style.css to use on Monday*/
   width: 25%;
   height: 25%;
 }
+
+/*Fajer's html style changes*/
+.table_Fajer{
+  border: 1px solid white;
+  color: white;
+  width: 100%;
+}
+
+#small_pic {
+
+    height: 500px;
+    width: 600px;
+
+}
+
+/*Zahra's html style changes*/
+.table_Zahra{
+  border: 1px solid white;
+  color: white;
+  width: 50%;
+}
