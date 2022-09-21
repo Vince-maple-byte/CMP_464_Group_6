@@ -1,5 +1,6 @@
 # CMP_464_Group_6
 This repository was created by Iverson Mejia, and was contributed to by 
+Iverson Mejia,
 Benjamin Rosado,
 Zahra Khan,
 Fajer Butt,
