@@ -1,0 +1,101 @@
+/*Note we will collectively decide or pick one, either style_option2.css or style_option1.css. 
+But first we have to individually test them both to see which one we all want to use as a team, so please test both*/
+/*After reviewing, if you want to add your won variables for your 
+index.html to look a certain way, fell free to do so, on Monday we'll
+look at your added variables and implement them in the final styles.css
+we collectively decide on*/
+/*This is the first styling option you can use for your .html 
+you should try and change some variables here to see what does what
+and for what reason they do them*/
+body{
+	width: auto;
+      min-height: auto;
+	border: 5px;
+}
+/*This is the body specific to the colour gradient in the background
+the colourful background you see has this body you can play with the speed
+and size just to see how it works*/
+/*Keep in mind that colour gradient means moving or motion colours.
+To see what i'm talking about, use this /css/style_option1.css and find out.*/
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+.center{
+  text-align: center;
+}
+
+/*These buttons links our names on the review_index.html to our own 
+indes.html, for example if you click on your name, it should take you 
+to your index.html if you have it in tha same folder*/
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  font-family: monospace;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+/*This is the button sub definition which draws from .button again, 
+you dont really need to use these variables but definately play with them to 
+see how they work*/
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+/*the effect you see when you hover your mouse pointer on our names on review_index.html
+ it turns green when you hover on any name, since all our index.html is not linked in 
+ one place, when you click on anyones name other than yours it will show a "page not found" error
+ that's ok, just go back to the previous website and click on only your name.*/
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+/* now these are the variables you can use in your index.html 
+like i said, fell free to add more if needed*/
+/*This is for the header "h1" with specific details, 
+you can add your own, like h3 or h4 or whatever*/
+h1 {
+  color: white;
+  text-align: center;
+  font-family:monospace;
+  font-size: 44px;
+}
+/*This is the paragraph tag with specifications, you can add
+your own if you want*/
+p {
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+}
+/*This are special instructions for the colour gradient[the colourful background]
+you can mess with them to see how they work. 
+Ultimately, we will have to use tha same variables when we choose which
+style.css to use on Monday*/
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/*This is for the table design in the personal pages*/
+table, th, tr, td{
+    border: 1px solid white;
+    color: white;
+    width: 50%;
+  }
+    
+
