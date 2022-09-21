@@ -1,20 +1,20 @@
 # CMP_464_Group_6
 Thois repository was created by Iverson Mejia, and was contributed to by 
-Benjamin Rosado
-Zahra Khan
-Fajer Butt
+Benjamin Rosado,
+Zahra Khan,
+Fajer Butt,
 Joe Debrah
 
 This repository contains each contributers personal index.html as follows;
-Iverson.html
-Benjamin.html
-Zahra.html
-Fajer.html
+Iverson.html,
+Benjamin.html,
+Zahra.html,
+Fajer.html,
 Joe.html
 
 This repository also contains;
-index.html
-style.html
-/images1/
-HelloWorld.py
+index.html,
+style.html,
+/images1/,
+HelloWorld.py,
 README.md
