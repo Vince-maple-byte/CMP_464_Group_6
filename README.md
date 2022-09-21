@@ -1,5 +1,5 @@
 # CMP_464_Group_6
-Thois repository was created by Iverson Mejia, and was contributed to by 
+This repository was created by Iverson Mejia, and was contributed to by 
 Benjamin Rosado,
 Zahra Khan,
 Fajer Butt,
